@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shipment()
+comment1.params=nTime\ nCost\ nQty
+comment1.target=Shipment(int,\ double,\ int)
+comment2.params=nTime\ nCost\ nQty
+comment2.target=void\ setWidget(int,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=other
+comment4.target=int\ compareTo(Shipment)
+numComments=5
